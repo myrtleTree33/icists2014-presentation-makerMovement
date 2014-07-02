@@ -1,10 +1,56 @@
 [
-    "index.md",
-    "introduction.md",
+    {
+        "filename": "index.md",
+        "attr": {}
+    },
     {
         "filename": "introduction.md",
         "attr": {
             "data-background": "#ff0000"
+        }
+    },
+    {
+        "filename": "what-makes-great-technology.md",
+        "attr": {}
+    },
+    {
+        "filename": "great-technology-brings-people-together.md",
+        "attr": {
+        }
+    },
+    {
+        "filename": "passive-consumerism-to-active-creation.md",
+        "attr": {}
+    },
+    {
+        "filename": "what-exactly-is-making.md",
+        "attr": {
+          "data-background": "images/mmf2.jpg"
+        }
+    },
+    {
+        "filename": "why-it-matters.md",
+        "attr": {}
+    },
+    {
+        "filename": "3d-prosthetics.md",
+        "attr": {}
+    },
+    {
+        "filename": "making-in-singapore.md",
+        "attr": {}
+    },
+    {
+        "filename": "maker-ecosystem-in-singapore.md",
+        "attr": {}
+    },
+    {
+        "filename": "whats-next.md",
+        "attr": {}
+    },
+    {
+        "filename": "thank-you.md",
+        "attr": {
         }
     }
 ]
