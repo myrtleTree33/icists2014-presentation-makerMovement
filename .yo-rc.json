@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "The Art of Making",
+    "packageVersion": "0.0.0",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "myrtletree33",
+    "githubRepository": "icists2014-presentation-makerMovement"
+  }
+}
