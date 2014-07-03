@@ -37,6 +37,8 @@ $headingFont: 'Lato';
 $mainFont: 'Josefin Slab';
 $mainFontSize: 25px;
 $heading1TextShadow:  0 3px 0 #999;
+$headingTextShadow: 0 2px 2px #222;
+$headingColor: #FAFAFF;
 
 div .gridThree {
     -webkit-column-count: 3; /* Chrome, Safari, Opera */
@@ -48,12 +50,26 @@ div .gridThree {
     column-gap: 40px;
 }
 
+div .gridTwo {
+    -webkit-column-count: 2; /* Chrome, Safari, Opera */
+    -moz-column-count: 2; /* Firefox */
+    column-count: 2;
+
+    -webkit-column-gap: 10px; /* Chrome, Safari, Opera */
+    -moz-column-gap: 10px; /* Firefox */
+    column-gap: 10px;
+}
+
 img {
   border:none !important; background:none !important; box-shadow:none !important;
 }
 
 .warning-color {
   color: #F0563D;
+}
+
+.black {
+  color: #222;
 }
 
 // $headingTextTransform: normal;
