@@ -1,57 +1,60 @@
 [
     {
-        "filename": "index.md",
-        "attr": {}
-    },
-    {
-        "filename": "what-makes-great-technology.md",
-        "attr": {}
-    },
-    {
-        "filename": "great-technology-brings-people-together.md",
-        "attr": {}
-    },
-    {
-        "filename": "passive-consumerism-to-active-creation.md",
-        "attr": {}
-    },
-    {
-        "filename": "what-exactly-is-making.md",
+        "filename": "introduction.md",
         "attr": {
-            "data-background": "images/wikiSeat.jpg"
+            "data-background": ""
         }
     },
     {
-        "filename": "why-it-matters.md",
+        "filename": "what-is-the-maker-movement.md",
         "attr": {
-            "data-background": "images/core/wood_pattern.png",
-            "data-background-size": "50px",
-            "data-background-repeat": "repeat"
+            "data-background": ""
+        }
+    },
+    {
+        "filename": "maker-collaboration.md",
+        "attr": {}
+    },
+    {
+        "filename": "maker-education.md",
+        "attr": {
+            "data-background": ""
+        }
+    },
+    {
+        "filename": "maker-soldering.md",
+        "attr": {
+            "data-background": ""
+        }
+    },
+    {
+        "filename": "maker-invention.md",
+        "attr": {
+            "data-background": ""
+        }
+    },
+    {
+        "filename": "what-exactly-is-the-maker-movement.md",
+        "attr": {
+            "data-background": ""
+        }
+    },
+    {
+        "filename": "the-maker-movement-is-turning-ideas-into-reality.md",
+        "attr": {
+            "data-background": ""
+        }
+    },
+    {
+        "filename": "sayes.md",
+        "attr": {
+            "data-background": ""
         }
     },
     {
         "filename": "geeb.md",
         "attr": {
+            "data-background": ""
         }
-    },
-    {
-        "filename": "3d-prosthetics.md",
-        "attr": {}
-    },
-    {
-        "filename": "making-in-singapore.md",
-        "attr": {}
-    },
-    {
-        "filename": "maker-ecosystem-in-singapore.md",
-        "attr": {}
-    },
-    {
-        "filename": "whats-next.md",
-        "attr": {}
-    },
-    {
-        "filename": "thank-you.md",
-        "attr": {}
     }
 ]

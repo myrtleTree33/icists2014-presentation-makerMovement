@@ -1,15 +1,17 @@
 
+## GEEB
+
+<span class="catchline-reason">Gyrating Enigmatic Electrical Blimp</span>
+
 
 <div class="gridTwo">
 	<div>
-		<img src="images/geeb0.jpg" style="width: 800px;" alt="">
+		<img src="images/geeb0.jpg" alt="" class="polaroid img-small">
 	</div>
 	<div>
-		<img src="images/geeb2.jpg" style="width: 800px;" alt="">
+		<img src="images/geeb2.jpg" alt="" class="polaroid img-small">
 	</div>
 </div>
-
-### <span class="warning-color">G</span>yrating <span class="warning-color">E</span>nigmatic <span class="warning-color">E</span>lectrical <span class="warning-color">B</span>limp
 
 note:
     Put your speaker notes here.

@@ -26,19 +26,23 @@
 }
 
 @import url(http://fonts.googleapis.com/css?family=Roboto+Slab); 
-@import url(http://fonts.googleapis.com/css?family=Open+Sans); 
-@import url(http://fonts.googleapis.com/css?family=Raleway); 
+@import url(http://fonts.googleapis.com/css?family=Francois+One); 
+@import url(http://fonts.googleapis.com/css?family=Noto+Sans); 
+@import url(http://fonts.googleapis.com/css?family=Montserrat); 
+@import url(http://fonts.googleapis.com/css?family=Bree+Serif); 
 @import url(https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic);
 // ---------------------------------------------
 
 
 
+// $headingFont: 'Lato';
 $headingFont: 'Lato';
-$mainFont: 'Josefin Slab';
-$mainFontSize: 25px;
-$heading1TextShadow:  0 3px 0 #999;
-$headingTextShadow: 0 2px 2px #222;
-$headingColor: #FAFAFF;
+// $mainFont: 'Montserrat';
+$mainFontSize: 28px;
+$heading1TextShadow: 1px 1px 0 #FAFAFF, 3px 3px 0 #3E6372;
+// $headingTextShadow: 1px 1px 0 #2A3A48, 2px 2px 0 #3E6372;
+$headingTextShadow: 2px 2px 0 #3E6372;
+$headingColor: #FF6900;
 
 div .gridThree {
     -webkit-column-count: 3; /* Chrome, Safari, Opera */
@@ -64,12 +68,32 @@ img {
   border:none !important; background:none !important; box-shadow:none !important;
 }
 
+img.polaroid {
+    background-color: #fff !important;
+    padding: 4px !important;
+}
+
+img.img-medium {
+    width: 700px;
+}
+
+img.img-small {
+    width: 600px;
+}
+
 .warning-color {
   color: #F0563D;
 }
 
 .black {
   color: #222;
+}
+
+span.catchline-reason {
+  color: #FFFF;
+  text-transform: normal !important;
+  font-size: 40px !important;
+  font-family: "Lato";
 }
 
 // $headingTextTransform: normal;
@@ -92,7 +116,7 @@ img {
 
 // Background generator ------------------------
 @mixin bodyBackground() {
-        background-image: url("../../images/core/low_contrast_linen.png");
+        background-image: url("../../images/core/binding_dark.png");
         // background-image: url("../../images/core/wood_pattern.png");
 }
 // ---------------------------------------------
