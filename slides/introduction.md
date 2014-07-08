@@ -1,6 +1,8 @@
 # The Art of Making
 
-### Tong Haowen Joel<br>Naitonal University of Singapore
+
+<span class="catchline-reason">TONG Haowen Joel</span><br>
+<span class="catchline-reason">National University of Singapore</span>
 
 note:
     Put your speaker notes here.

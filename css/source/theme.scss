@@ -33,7 +33,13 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic);
 // ---------------------------------------------
 
+// use font-awesome
+.reveal i{
+    font-family: 'FontAwesome';
+    font-style: normal;
+}
 
+html, body, object { margin: 0px; padding: 0px; position: absolute; height: 100%; width: 100%; overflow: hidden; background-color: #000; }
 
 // $headingFont: 'Lato';
 $headingFont: 'Lato';
@@ -79,6 +85,14 @@ img.img-medium {
 
 img.img-small {
     width: 600px;
+}
+
+img.img-xsmall {
+    width: 450px;
+}
+
+img.img-portrait-xsmall {
+  height: 400px;
 }
 
 .warning-color {

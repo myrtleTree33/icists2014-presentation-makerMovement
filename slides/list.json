@@ -46,6 +46,18 @@
         }
     },
     {
+        "filename": "dingx.md",
+        "attr": {
+            "data-background": ""
+        }
+    },
+    {
+        "filename": "dingx-demo.md",
+        "attr": {
+            "data-background": ""
+        }
+    },
+    {
         "filename": "sayes.md",
         "attr": {
             "data-background": ""
@@ -53,6 +65,54 @@
     },
     {
         "filename": "geeb.md",
+        "attr": {
+            "data-background": ""
+        }
+    },
+    {
+        "filename": "the-maker-movement-is-doing-something-you-love.md",
+        "attr": {
+            "data-background": "list.json"
+        }
+    },
+    {
+        "filename": "veera.md",
+        "attr": {
+            "data-background": ""
+        }
+    },
+    {
+        "filename": "the-maker-movement-is-about-empowering-people.md",
+        "attr": {
+            "data-background": ""
+        }
+    },
+    {
+        "filename": "yuanjun.md",
+        "attr": {
+            "data-background": ""
+        }
+    },
+    {
+        "filename": "maker-movement-in-singapore.md",
+        "attr": {
+            "data-background": ""
+        }
+    },
+    {
+        "filename": "what-exactly-is-the-maker-movement-2.md",
+        "attr": {
+            "data-background": ""
+        }
+    },
+    {
+        "filename": "what-is-your-maker-journey.md",
+        "attr": {
+            "data-background": ""
+        }
+    },
+    {
+        "filename": "thank-you.md",
         "attr": {
             "data-background": ""
         }
