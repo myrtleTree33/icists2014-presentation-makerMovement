@@ -1,8 +1,7 @@
-##  E-nable.org
+## e-NABLE Singapore
 
-<img src="images/enable.jpg" class="polaroid img-portrait-xsmall" alt="">
+<img src="images/enablesingapore.jpg" class="polaroid img-portrait-xsmall" alt="">
 
-<span class="catchline-reason">Yuanjun</span>
 
 note:
     Put your speaker notes here.
