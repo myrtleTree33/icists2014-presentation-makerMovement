@@ -1,6 +1,6 @@
 ##  What is the Maker Movement?
 
-<span class="catchline-reason">No definite answer.</span>
+<p class="fragment fade-in"><span class="catchline-reason">No definite answer.</span></p>
 
 
 note:
