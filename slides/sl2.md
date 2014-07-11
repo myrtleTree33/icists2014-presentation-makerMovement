@@ -2,7 +2,7 @@
 
 <img src="images/veera.jpg" alt="" class="polaroid img-medium">
 
-<span class="catchline-reason">Veera</span>
+<span class="catchline-reason">www.sl2square.org</span>
 
 note:
     Put your speaker notes here.

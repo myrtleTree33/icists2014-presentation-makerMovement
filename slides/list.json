@@ -76,7 +76,19 @@
         }
     },
     {
-        "filename": "veera.md",
+        "filename": "sl2.md",
+        "attr": {
+            "data-background": ""
+        }
+    },
+    {
+        "filename": "sl2-community.md",
+        "attr": {
+            "data-background": ""
+        }
+    },
+    {
+        "filename": "sl2-handcycle.md",
         "attr": {
             "data-background": ""
         }
