@@ -126,19 +126,22 @@
     {
         "filename": "what-exactly-is-the-maker-movement-2.md",
         "attr": {
-            "data-background": ""
+            "data-background": "",
+            "data-transition": "zoom"
         }
     },
     {
         "filename": "what-is-your-maker-journey.md",
         "attr": {
-            "data-background": ""
+            "data-background": "#E74C3C",
+            "data-transition": "zoom"
         }
     },
     {
         "filename": "thank-you.md",
         "attr": {
-            "data-background": ""
+            "data-background": "#046380",
+            "data-transition": "zoom"
         }
     }
 ]

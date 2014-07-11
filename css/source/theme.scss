@@ -26,10 +26,10 @@
 }
 
 @import url(http://fonts.googleapis.com/css?family=Roboto+Slab); 
+@import url(http://fonts.googleapis.com/css?family=Roboto); 
 @import url(http://fonts.googleapis.com/css?family=Francois+One); 
 @import url(http://fonts.googleapis.com/css?family=Noto+Sans); 
 @import url(http://fonts.googleapis.com/css?family=Montserrat); 
-@import url(http://fonts.googleapis.com/css?family=Bree+Serif); 
 @import url(https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic);
 // ---------------------------------------------
 
@@ -39,11 +39,54 @@
     font-style: normal;
 }
 
+p.intro-contact {
+  padding-top: 3em;
+  span.name {
+  }
+  span.school {
+    font-size: .95em !important;
+    
+  }
+  span.conference {
+    font-size: .9em !important;
+    
+  }
+}
+
+p.final-question {
+  color: #fff !important;
+  font-size: 50px !important;
+  font-family: "Lato" !important;
+}
+
+p.contact-header {
+  color: #EFEFEF !important;
+  
+}
+
+ul, li {
+    list-style:none;
+    list-style-type:none;
+    padding: 0px 0 0px 0 !important;
+}
+
+ul {
+  padding-top: 1.5em !important;
+  padding-bottom: 1.5em !important;
+}
+
+
+.icon {
+  width: 50px !important;
+  vertical-align: middle !important;
+  padding-right: 2.5em !important;
+}
+
 html, body, object { margin: 0px; padding: 0px; position: absolute; height: 100%; width: 100%; overflow: hidden; background-color: #000; }
 
 // $headingFont: 'Lato';
 $headingFont: 'Lato';
-// $mainFont: 'Montserrat';
+$mainFont: 'Lato';
 $mainFontSize: 28px;
 $heading1TextShadow: 1px 1px 0 #FAFAFF, 3px 3px 0 #3E6372;
 // $headingTextShadow: 1px 1px 0 #2A3A48, 2px 2px 0 #3E6372;
