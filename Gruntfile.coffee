@@ -78,6 +78,7 @@ module.exports = (grunt) ->
                     expand: true
                     src: [
                         'slides/**'
+                        'images/**'
                         'bower_components/**'
                         'js/**'
                         'css/*.css'
