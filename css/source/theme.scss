@@ -28,7 +28,7 @@
 @import url(http://fonts.googleapis.com/css?family=Roboto+Slab); 
 @import url(http://fonts.googleapis.com/css?family=Roboto); 
 @import url(http://fonts.googleapis.com/css?family=Francois+One); 
-@import url(http://fonts.googleapis.com/css?family=Noto+Sans); 
+@import url(http://fonts.googleapis.com/css?family=Antic+Slab); 
 @import url(http://fonts.googleapis.com/css?family=Montserrat); 
 @import url(https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic);
 // ---------------------------------------------
@@ -40,7 +40,7 @@
 }
 
 p.intro-contact {
-  padding-top: 3em;
+  padding-top: 4em;
   span.name {
   }
   span.school {
@@ -82,14 +82,36 @@ ul {
 
 html, body, object { margin: 0px; padding: 0px; position: absolute; height: 100%; width: 100%; overflow: hidden; background-color: #000; }
 
+
 // $headingFont: 'Lato';
 $headingFont: 'Lato';
 $mainFont: 'Lato';
 $mainFontSize: 28px;
-$heading1TextShadow: 1px 1px 0 #FAFAFF, 3px 3px 0 #3E6372;
+// $heading1TextShadow: 1px 1px 0 #FAFAFF, 3px 3px 0 #3E6372;
+// $heading1TextShadow: 3px 3px 0 #7E8AA2;
 // $headingTextShadow: 1px 1px 0 #2A3A48, 2px 2px 0 #3E6372;
 $headingTextShadow: 2px 2px 0 #3E6372;
 $headingColor: #FF6900;
+
+h1 {
+  
+}
+
+.stitched {
+  font-family: "Antic Slab" !important;
+   padding: 14px !important;
+   background: #E74C3C;
+   color: #fff;
+   font-size: 21px;
+   font-weight: bold;
+   line-height: 1.3em;
+   border: 2px dashed #fff !important;
+   border-radius: 10px;
+   text-shadow: -1px -1px #aa3030;
+   font-weight: normal;
+}
+
+
 
 div .gridThree {
     -webkit-column-count: 3; /* Chrome, Safari, Opera */
@@ -171,7 +193,7 @@ span.catchline-reason {
 
 // Background generator ------------------------
 @mixin bodyBackground() {
-        background-image: url("../../images/core/binding_dark.png");
+        background-image: url("../images/core/binding_dark.png");
         // background-image: url("../../images/core/wood_pattern.png");
 }
 // ---------------------------------------------

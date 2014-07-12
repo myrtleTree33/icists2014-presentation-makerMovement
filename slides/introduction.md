@@ -1,4 +1,8 @@
-# The Art of Making
+# The Maker Movement
+
+<br>
+<!-- <span class="stitched">Destination <i class="fa fa-map-marker"></i> Singapore</span> -->
+<span class="stitched">Destination | Singapore</span>
 
 <p class="intro-contact">
 <span class="catchline-reason name">Joel Haowen Tong</span><br>

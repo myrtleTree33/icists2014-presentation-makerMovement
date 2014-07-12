@@ -6,7 +6,7 @@
 @import url(http://fonts.googleapis.com/css?family=Roboto+Slab);
 @import url(http://fonts.googleapis.com/css?family=Roboto);
 @import url(http://fonts.googleapis.com/css?family=Francois+One);
-@import url(http://fonts.googleapis.com/css?family=Noto+Sans);
+@import url(http://fonts.googleapis.com/css?family=Antic+Slab);
 @import url(http://fonts.googleapis.com/css?family=Montserrat);
 @import url(https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic);
 @font-face {
@@ -20,7 +20,7 @@
   font-style: normal; }
 
 p.intro-contact {
-  padding-top: 3em; }
+  padding-top: 4em; }
   p.intro-contact span.school {
     font-size: .95em !important; }
   p.intro-contact span.conference {
@@ -56,6 +56,19 @@ html, body, object {
   width: 100%;
   overflow: hidden;
   background-color: #000; }
+
+.stitched {
+  font-family: "Antic Slab" !important;
+  padding: 14px !important;
+  background: #E74C3C;
+  color: #fff;
+  font-size: 21px;
+  font-weight: bold;
+  line-height: 1.3em;
+  border: 2px dashed #fff !important;
+  border-radius: 10px;
+  text-shadow: -1px -1px #aa3030;
+  font-weight: normal; }
 
 div .gridThree {
   -webkit-column-count: 3;
@@ -118,7 +131,7 @@ span.catchline-reason {
  * GLOBAL STYLES
  *********************************************/
 body {
-  background-image: url("../../images/core/binding_dark.png");
+  background-image: url("../images/core/binding_dark.png");
   background-color: #2b2b2b; }
 
 .reveal {
@@ -151,7 +164,7 @@ body {
   text-shadow: 2px 2px 0 #3e6372; }
 
 .reveal h1 {
-  text-shadow: 1px 1px 0 #fafaff, 3px 3px 0 #3e6372; }
+  text-shadow: 0px 0px 6px rgba(0, 0, 0, 0.2); }
 
 /*********************************************
  * LINKS
