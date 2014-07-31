@@ -12,6 +12,12 @@
         }
     },
     {
+        "filename": "wiki-definition.md",
+        "attr": {
+            "data-background": "#046380"
+        }
+    },
+    {
         "filename": "maker-collaboration.md",
         "attr": {}
     },
