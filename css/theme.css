@@ -258,3 +258,6 @@ body {
  *********************************************/
 .reveal .slide-number {
   color: #13daec; }
+
+span.wiki-definition {
+  text-align: left; }

@@ -1,6 +1,16 @@
 ##  Maker Movement in Singapore
 
-<img src="images/makerSingapore.jpg" alt="" class="polaroid img-medium">
+<div class="gridThree">
+	<div>
+		<img src="images/makerSingapore.jpg" alt="" class="polaroid img-small">
+	</div>
+	<div>
+		<img src="images/sg-2.jpg" alt="" class="polaroid img-small">
+	</div>
+	<div>
+		<img src="images/sg-1.jpg" alt="" class="polaroid img-small">
+	</div>
+</div>
 
 note:
     Put your speaker notes here.
